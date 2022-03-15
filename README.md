@@ -1,8 +1,10 @@
 # Résumé
 
-Hit branch [zh_CN](https://github.com/billryan/resume/tree/zh_CN) if you want a Simplified Chinese résumé.
+Source：https://github.com/billryan/resume/tree/zh_CN
 
-中文用户请前往 [zh_CN](https://github.com/billryan/resume/tree/zh_CN) 分支。
+Hit branch [zh_CN](https://github.com/WheaterW/resume/tree/zh_CN) if you want a Simplified Chinese résumé.
+
+中文用户请前往 [zh_CN](https://github.com/WheaterW/resume/tree/zh_CN) 分支。
 
 An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by 
 
